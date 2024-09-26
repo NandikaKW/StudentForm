@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="mysql-connector-j-9.0.3">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/mysql-connector-j-9.0.0/mysql-connector-j-9.0.0/mysql-connector-j-9.0.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/mvc-architec-new-main/mvc-architec-new-main/src/com/edu/ijse/lib/mysql-connector-j-9.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
