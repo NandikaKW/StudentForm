@@ -4,10 +4,7 @@
  */
 package dto;
 
-/**
- *
- * @author Kaweesha
- */
+
 public class studentDto {
     private String studentId;
     private String name;
